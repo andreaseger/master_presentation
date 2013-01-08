@@ -15,7 +15,7 @@ then just run
 
     rackup
 
-and go to [localhost:9292](localhost:9292)
+and go to [localhost:9292](http://localhost:9292)
 
 meta
 ---
