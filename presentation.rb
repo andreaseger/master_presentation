@@ -24,7 +24,8 @@ class Presentation < Sinatra::Base
 
   def slides
     files = Dir[File.join(settings.root, 'slides', '*')]
-    sections = files.sort.map{|e| e.split('/').last}.group_by{|e| e.match(/slide(\d{2})(-(\d+))?/)[1] }.values
+    sections = files.sort.map{|e| e.split('/').last}.
+                          group_by{|e| e.match(/slide(\d{2})(-(\d+))?/)[1] }.values
     sections.map do |section|
       content = section.map do |file|
                   path = File.join(settings.root, 'slides', file)
