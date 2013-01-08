@@ -1,3 +1,3 @@
 source 'http://rubygems.org'
-gem 'sinatra'
-gem 'puma'
+gem 'sinatra', require: 'sinatra/base'
+gem 'sinatra-contrib', require: 'sinatra/reloader'
