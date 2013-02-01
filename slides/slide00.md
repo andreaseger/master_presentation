@@ -1,4 +1,4 @@
-Classification Verification Engine
+Automated Verification of Job Classification
 ===
 
-How to decide if a job was classified correctly - with the help of a Support Vector Machine
+How to decide if a job was classified correctly?
