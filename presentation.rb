@@ -22,13 +22,13 @@ class Presentation < Sinatra::Base
     EOF
   end
 
-  def slides(base)
+  def slides(base = '')
     files = Dir[File.join(settings.root, 'slides', base, '*.*')]
     sections = files.sort.map{|e| e.split('/').last}.
                           group_by{|e| e.match(/slide(\d{2})(-(\d+))?/)[1] }.values
     sections.map do |section|
       content = section.map do |file|
-                  path = File.join(settings.root, 'slides', file)
+                  path = File.join(settings.root, 'slides', base, file)
                   case File.extname(file)
                   when '.md'
                     wrap_markdown_slides IO.read(path)
@@ -44,8 +44,12 @@ class Presentation < Sinatra::Base
     end.join("\n")
   end
 
-  get '/:base' do |base|
-    binding.pry
+  get '/' do
+    @slides = slides
+    erb :index
+  end
+
+  get '/:base/' do |base|
     @slides = slides(base)
     erb :index
   end
