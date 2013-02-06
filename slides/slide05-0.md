@@ -1,6 +1,4 @@
-Testing Job & the API
----
+## integration
 
-Job -> Predictor - - - - - - - - - - - SVM - => prediction
-        |                               A
-        + -> Preprocessor -> Selector - +
+- What options are available
+- pros/cons

@@ -1,5 +1,4 @@
-Background & Motivation
-===
+## Motivation
 
-- How does Qualitiy assurance work at the Moment?
-- How can this new system help the process?
+- status quo
+- the problem(s)

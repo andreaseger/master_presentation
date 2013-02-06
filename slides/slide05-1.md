@@ -1,9 +1,6 @@
-API
----
+### integrationoptions (1)
 
-- CLI
-  - selects a predictor
-  - and a job
-  - will return true/false and how certain the system is
-- JSON-API
-- Integration via gem
+**use job prediction directly in the research process**
+
+- either provide the prediction directly to the researcher so he can make a correction
+- or provide the prediction only to the approver

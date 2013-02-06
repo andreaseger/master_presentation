@@ -22,8 +22,8 @@ class Presentation < Sinatra::Base
     EOF
   end
 
-  def slides
-    files = Dir[File.join(settings.root, 'slides', '*')]
+  def slides(base)
+    files = Dir[File.join(settings.root, 'slides', base, '*.*')]
     sections = files.sort.map{|e| e.split('/').last}.
                           group_by{|e| e.match(/slide(\d{2})(-(\d+))?/)[1] }.values
     sections.map do |section|
@@ -44,7 +44,9 @@ class Presentation < Sinatra::Base
     end.join("\n")
   end
 
-  get '/' do
+  get '/:base' do |base|
+    binding.pry
+    @slides = slides(base)
     erb :index
   end
 end

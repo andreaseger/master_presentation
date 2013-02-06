@@ -1,7 +1,4 @@
-How it works
-===
+## Goals
 
-- Architecture
-- Learnprocess
-- Testing jobs a.k.a. the API
-- Integrationoptions
+- what can this system provide
+- where are the limitation

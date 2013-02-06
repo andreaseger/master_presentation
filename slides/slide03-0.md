@@ -1,7 +1,2 @@
-Architecture
----
+## What it does
 
-- Preprocessor
-- Selector
-- Trainer
-- Predictor

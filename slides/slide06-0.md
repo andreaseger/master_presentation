@@ -1,6 +1,4 @@
-Details
-===
+## prospects
 
-- Support Vector Machines
-- "the" kernel trick
-- Learning methods and parameter selection
+- what further development could achieve
+- what further projects could be build on this architecture
