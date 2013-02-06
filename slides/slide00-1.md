@@ -2,7 +2,7 @@
 
 - motivation
 - goals and limitations
-- what it does
+- how is the performance
 - how it works
 - integration
 - prospects
