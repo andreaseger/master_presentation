@@ -1,5 +1,5 @@
 ## how is the performance
 
-- current problems
+- some current caveats
 - Overall Accuracy
 - Accuracy by Probability
