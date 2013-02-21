@@ -1,4 +1,4 @@
-# Automated Verification of Job Classification
+# Automated Verification of Job Classifications
 
 **or**
 
