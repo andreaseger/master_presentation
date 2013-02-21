@@ -1,7 +1,4 @@
-### what further development could achieve
+### When/How often to retrain
 
-- active learning instead of passive/bulk learning
-    - as seen on the SVM page only the vectors closest to the hyperplane are interesting
-    - this could eliminate the need of a extra training phase as the system can be trained as it runs
-
-- higher level text analysis of the job description the extract specific parts
+- train more often in the beginning to make use of the new QA data (~ every month)
+- later the interval between training runs can become longer

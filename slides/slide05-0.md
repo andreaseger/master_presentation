@@ -1,4 +1,3 @@
 ## integration
 
-- What options are available
-- pros/cons
+What are the options for the predicion

@@ -5,4 +5,5 @@
 - how is the performance
 - how it works
 - integration
+- training
 - prospects

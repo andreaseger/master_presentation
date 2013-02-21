@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="344px" height="202.667px" viewBox="0 0 344 202.667" enable-background="new 0 0 344 202.667" xml:space="preserve">
+<symbol  id="circle_1_" viewBox="-9.25 -9.25 18.5 18.5">
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M8.75,0c0-4.833-3.918-8.75-8.75-8.75S-8.75-4.833-8.75,0
+		S-4.832,8.75,0,8.75S8.75,4.833,8.75,0z"/>
+</symbol>
+<symbol  id="cross_2_" viewBox="-9.104 -9.104 18.207 18.207">
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="-8.75" y1="8.75" x2="8.75" y2="-8.75"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="8.75" y1="8.75" x2="-8.75" y2="-8.75"/>
+</symbol>
+<g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="12" y1="187.333" x2="12" y2="16.482"/>
+			<g>
+				<path d="M12,10.447c1.054,2.84,2.852,6.363,4.756,8.547L12,17.274l-4.755,1.72C9.15,16.81,10.948,13.287,12,10.447z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="12" y1="187.333" x2="329.965" y2="187.333"/>
+			<g>
+				<path d="M336,187.333c-2.84,1.054-6.363,2.852-8.547,4.756l1.72-4.756l-1.72-4.756C329.637,184.482,333.16,186.28,336,187.333z"
+					/>
+			</g>
+		</g>
+	</g>
+</g>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 301.626 20.0176)" overflow="visible"/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 314.0264 23.3472)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 272.9502 21.6821)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 282.251 45.8188)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 315.5762 45.8188)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 271.5 33.8838)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 253.7266 56.6064)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 266.127 59.936)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 225.0508 58.271)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 234.3516 82.4072)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 267.6768 82.4072)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 196.376 69.0908)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 243.3604 17.7583)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 255.7607 21.0879)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 214.6846 19.4233)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 288.25 25.4468)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 257.3105 43.5591)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#cross_2_"  width="18.207" height="18.207" x="-9.104" y="-9.104" transform="matrix(0.3875 0 0 -0.4161 186.0098 30.2427)" overflow="visible" enable-background="new    "/>
+<g id="cross_1_" enable-background="new    ">
+	<g>
+		<polygon stroke="#00FF00" stroke-miterlimit="10" points="167.92,100.048 161.139,92.767 161.414,92.472 168.195,99.754 		"/>
+	</g>
+	<g>
+		<polygon stroke="#00FF00" stroke-miterlimit="10" points="161.414,100.048 161.139,99.754 167.92,92.472 168.195,92.767 		"/>
+	</g>
+	<g>
+		<polygon stroke="#00FF00" stroke-miterlimit="10" points="206.548,96.26 199.767,88.979 200.042,88.684 206.823,95.965 		"/>
+	</g>
+	<g>
+		<polygon stroke="#00FF00" stroke-miterlimit="10" points="200.042,96.26 199.767,95.965 206.548,88.684 206.823,88.979 		"/>
+	</g>
+	<g>
+		<polygon stroke="#00FF00" stroke-miterlimit="10" points="80.817,103.836 74.036,96.555 74.312,96.26 81.093,103.542 		"/>
+	</g>
+	<g>
+		<polygon stroke="#00FF00" stroke-miterlimit="10" points="74.312,103.836 74.036,103.542 80.817,96.26 81.093,96.555 		"/>
+	</g>
+	<g>
+		<polygon stroke="#00FF00" stroke-miterlimit="10" points="56.055,94.678 49.274,87.397 49.549,87.102 56.331,94.383 		"/>
+	</g>
+	<g>
+		<polygon stroke="#00FF00" stroke-miterlimit="10" points="49.549,94.678 49.274,94.383 56.055,87.102 56.331,87.397 		"/>
+	</g>
+	<g>
+		<polygon stroke="#00FF00" stroke-miterlimit="10" points="328.95,119.414 322.169,112.132 322.444,111.837 329.226,119.119 		"/>
+	</g>
+	<g>
+		<polygon stroke="#00FF00" stroke-miterlimit="10" points="322.444,119.414 322.169,119.119 328.95,111.837 329.226,112.132 		"/>
+	</g>
+</g>
+<use xlink:href="#circle_1_"  width="18.5" height="18.5" x="-9.25" y="-9.25" transform="matrix(0.6191 0 0 -0.6191 54.6909 145.7808)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#circle_1_"  width="18.5" height="18.5" x="-9.25" y="-9.25" transform="matrix(0.6191 0 0 -0.6191 79.4531 179.9839)" overflow="visible" enable-background="new    "/>
+<g id="circle" enable-background="new    ">
+	<path fill="none" stroke="#00FF00" stroke-miterlimit="10" d="M136.06,127.921c0,2.992-2.425,5.417-5.417,5.417
+		s-5.417-2.425-5.417-5.417s2.425-5.417,5.417-5.417S136.06,124.929,136.06,127.921z"/>
+	<path fill="none" stroke="#00FF00" stroke-miterlimit="10" d="M214.685,131.231c0,2.992-2.425,5.417-5.417,5.417
+		s-5.417-2.425-5.417-5.417s2.425-5.417,5.417-5.417S214.685,128.239,214.685,131.231z"/>
+	<path fill="none" stroke="#00FF00" stroke-miterlimit="10" d="M176.399,134.947c0,2.992-2.425,5.417-5.417,5.417
+		s-5.417-2.425-5.417-5.417s2.425-5.417,5.417-5.417S176.399,131.955,176.399,134.947z"/>
+	<path fill="none" stroke="#00FF00" stroke-miterlimit="10" d="M30.466,117.231c0,2.992-2.425,5.417-5.417,5.417
+		s-5.417-2.425-5.417-5.417s2.425-5.417,5.417-5.417S30.466,114.239,30.466,117.231z"/>
+	<path fill="none" stroke="#00FF00" stroke-miterlimit="10" d="M106.847,124.831c0,2.992-2.425,5.417-5.417,5.417
+		s-5.417-2.425-5.417-5.417s2.425-5.417,5.417-5.417S106.847,121.838,106.847,124.831z"/>
+</g>
+<use xlink:href="#circle_1_"  width="18.5" height="18.5" x="-9.25" y="-9.25" transform="matrix(0.6191 0 0 -0.6191 79.4531 149.4937)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#circle_1_"  width="18.5" height="18.5" x="-9.25" y="-9.25" transform="matrix(0.6191 0 0 -0.6191 105.4531 163.8882)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#circle_1_"  width="18.5" height="18.5" x="-9.25" y="-9.25" transform="matrix(0.6191 0 0 -0.6191 27.4521 153.9819)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#circle_1_"  width="18.5" height="18.5" x="-9.25" y="-9.25" transform="matrix(0.6191 0 0 -0.6191 46.0234 168.8394)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#circle_1_"  width="18.5" height="18.5" x="-9.25" y="-9.25" transform="matrix(0.6191 0 0 -0.6191 90.5957 155.6079)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#circle_1_"  width="18.5" height="18.5" x="-9.25" y="-9.25" transform="matrix(0.6191 0 0 -0.6191 60.1074 172.9419)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#circle_1_"  width="18.5" height="18.5" x="-9.25" y="-9.25" transform="matrix(0.6191 0 0 -0.6191 27.4521 174.5669)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#circle_1_"  width="18.5" height="18.5" x="-9.25" y="-9.25" transform="matrix(0.6191 0 0 -0.6191 119.5 178.3589)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#circle_1_"  width="18.5" height="18.5" x="-9.25" y="-9.25" transform="matrix(0.6191 0 0 -0.6191 144.0776 163.8882)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#circle_1_"  width="18.5" height="18.5" x="-9.25" y="-9.25" transform="matrix(0.6191 0 0 -0.6191 95.5479 172.9419)" overflow="visible" enable-background="new    "/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="13.083" y1="111.837" x2="332.962" y2="112.472"/>
+<g id="cross" enable-background="new    ">
+	<g>
+		<polygon stroke="#00FF00" stroke-miterlimit="10" points="133.896,100.048 127.115,92.767 127.389,92.472 134.17,99.754 		"/>
+	</g>
+	<g>
+		<polygon stroke="#00FF00" stroke-miterlimit="10" points="127.389,100.048 127.115,99.754 133.896,92.472 134.17,92.767 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#2E3192" stroke-width="0.75" stroke-miterlimit="10" x1="13.083" y1="95.838" x2="14.083" y2="95.84"/>
+		
+			<line fill="none" stroke="#2E3192" stroke-width="0.75" stroke-miterlimit="10" stroke-dasharray="1.9992,1.9992" x1="16.083" y1="95.844" x2="330.962" y2="96.468"/>
+		
+			<line fill="none" stroke="#2E3192" stroke-width="0.75" stroke-miterlimit="10" x1="331.962" y1="96.47" x2="332.962" y2="96.472"/>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<line fill="none" stroke="#2E3192" stroke-width="0.75" stroke-miterlimit="10" x1="13.083" y1="127.837" x2="14.083" y2="127.839"/>
+		
+			<line fill="none" stroke="#2E3192" stroke-width="0.75" stroke-miterlimit="10" stroke-dasharray="1.9992,1.9992" x1="16.083" y1="127.844" x2="330.962" y2="128.468"/>
+		
+			<line fill="none" stroke="#2E3192" stroke-width="0.75" stroke-miterlimit="10" x1="331.962" y1="128.47" x2="332.962" y2="128.472"/>
+	</g>
+</g>
+<ellipse fill="none" stroke="#FBB03B" stroke-width="3" stroke-miterlimit="10" cx="250.583" cy="45.941" rx="93.417" ry="40.107"/>
+<ellipse fill="none" stroke="#FBB03B" stroke-width="3" stroke-miterlimit="10" cx="84.261" cy="161.66" rx="77.016" ry="30.43"/>
+</svg>

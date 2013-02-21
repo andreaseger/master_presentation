@@ -1,4 +1,5 @@
-## prospects
+### (Re-)Training
 
-- what further development could achieve
-- what further projects could be build on this architecture
+- When/How often to train
+- how long does it take
+- what to have in mind

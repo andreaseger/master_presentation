@@ -1,4 +1,4 @@
-### what further projects could be build on this architecture
+### How long does training take
 
-- automated classifications, **but** we need a loot more data for that
-- come other places where we have enough data which can be placed into seperate classes
+- a full training takes ~1 hour with 1200 jobs
+- more jobs means longer training, but better results
