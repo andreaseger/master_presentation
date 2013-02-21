@@ -1,5 +1,4 @@
-Preprocessor
----
+## Preprocessor
 
-- does stuff with the given data
-- cleanup, make section
+- removes weird html markup fragments from description
+- removes non word characters from title/description

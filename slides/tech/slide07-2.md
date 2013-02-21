@@ -1,1 +1,4 @@
-### a little bit of math
+### Kernel
+
+- linear
+- RBF

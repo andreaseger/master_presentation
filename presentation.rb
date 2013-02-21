@@ -1,4 +1,5 @@
 class Presentation < Sinatra::Base
+  DEFAULT = '/tech'
 
   configure do
     set :root, File.dirname(__FILE__)
@@ -45,11 +46,10 @@ class Presentation < Sinatra::Base
   end
 
   get '/' do
-    @slides = slides
-    erb :index
+    redirect DEFAULT
   end
 
-  get '/:base/' do |base|
+  get '/:base' do |base|
     @slides = slides(base)
     erb :index
   end

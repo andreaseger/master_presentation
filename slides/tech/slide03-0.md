@@ -1,5 +1,4 @@
-Architecture
----
+## Architecture
 
 - Preprocessor
 - Selector
