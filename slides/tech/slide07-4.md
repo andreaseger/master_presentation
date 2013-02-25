@@ -1,7 +1,3 @@
-### Integration
+### kernel trick
 
-- [libsvm](http://www.csie.ntu.edu.tw/~cjlin/libsvm/)
-- available in C++, Java, Matlab & Python
-- forked an existing wrapper for the C version: [rb-libsvm](http://www.github.com/sch1zo/rb-libsvm)
-- made a wrapper for jruby exposing the same interface: [jrb-libsvm](http://www.github.com/sch1zo/jrb-libsvm)
-- working equally in MRI, Jruby & Rubinius
+instead of casting the data in much higher dimensions we replace the linear function with a new function which returns what the linear function would have returned in a much higher dimensional space

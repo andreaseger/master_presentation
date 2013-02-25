@@ -1,5 +1,5 @@
 Bonus: JRuby - lessons learned
-===
+---
 
 What's nice? - What's not?
 

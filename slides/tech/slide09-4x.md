@@ -1,1 +1,0 @@
-### Nelder-Mean/Downhill Simplex
