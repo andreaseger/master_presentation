@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 640 480"
+   id="svg2851"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   width="640"
+   height="480"
+   sodipodi:docname="gaussiane.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:docbase="E:\Program Files\gnuplot\demo"
+   version="1.0">
+  <metadata
+     id="metadata3106">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:title>Unnormalized Radial Basis Functions</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="977"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1.4438163"
+     inkscape:cx="390.0952"
+     inkscape:cy="220.05434"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2851"
+     width="640px"
+     height="480px" />
+  <desc
+     id="desc2853">Produced by GNUPLOT 4.2 patchlevel 0 </desc>
+  <defs
+     id="defs2855">
+    <circle
+       id="gpDot"
+       r="1"
+       cx="0"
+       cy="0"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="1"
+       sodipodi:ry="1" />
+    <path
+       id="gpPt0"
+       style="stroke-width:0.222"
+       d="M -1,0 L 1,0 M 0,-1 L 0,1" />
+    <path
+       id="gpPt1"
+       style="stroke-width:0.222"
+       d="M -1,-1 L 1,1 M 1,-1 L -1,1" />
+    <path
+       id="gpPt2"
+       style="stroke-width:0.222"
+       d="M -1,0 L 1,0 M 0,-1 L 0,1 M -1,-1 L 1,1 M -1,1 L 1,-1" />
+    <rect
+       id="gpPt3"
+       style="stroke-width:0.222"
+       x="-1"
+       y="-1"
+       width="2"
+       height="2" />
+    <use
+       xlink:href="#gpPt3"
+       id="gpPt4"
+       style="fill:currentColor;stroke:none"
+       x="0"
+       y="0"
+       width="640"
+       height="480" />
+    <circle
+       id="gpPt5"
+       style="stroke-width:0.222"
+       cx="0"
+       cy="0"
+       r="1"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="1"
+       sodipodi:ry="1" />
+    <use
+       xlink:href="#gpPt5"
+       id="gpPt6"
+       style="fill:currentColor;stroke:none"
+       x="0"
+       y="0"
+       width="640"
+       height="480" />
+    <path
+       id="gpPt7"
+       style="stroke-width:0.222"
+       d="M 0,-1.33 L -1.33,0.67 L 1.33,0.67 L 0,-1.33 z " />
+    <use
+       xlink:href="#gpPt7"
+       id="gpPt8"
+       style="fill:currentColor;stroke:none"
+       x="0"
+       y="0"
+       width="640"
+       height="480" />
+    <use
+       xlink:href="#gpPt7"
+       id="gpPt9"
+       transform="scale(-1,-1)"
+       x="0"
+       y="0"
+       width="640"
+       height="480" />
+    <use
+       xlink:href="#gpPt9"
+       id="gpPt10"
+       style="fill:currentColor;stroke:none"
+       x="0"
+       y="0"
+       width="640"
+       height="480" />
+    <use
+       xlink:href="#gpPt3"
+       id="gpPt11"
+       transform="matrix(0.7071068,0.7071068,-0.7071068,0.7071068,0,0)"
+       x="0"
+       y="0"
+       width="640"
+       height="480" />
+    <use
+       xlink:href="#gpPt11"
+       id="gpPt12"
+       style="fill:currentColor;stroke:none"
+       x="0"
+       y="0"
+       width="640"
+       height="480" />
+  </defs>
+  <g
+     style="color:#ffffff;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g2871" />
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g2873">
+    <path
+       d="M 58.8,426 L 67.8,426 M 622,426 L 613,426"
+       id="path2875" />
+    <g
+       transform="translate(50.5,430.5)"
+       style="font-size:12px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+       id="g2877">
+      <text
+         id="text2879">
+        <tspan
+           id="tspan2881">0</tspan>
+      </text>
+    </g>
+    <path
+       d="M 58.8,388.8 L 67.8,388.8 M 622,388.8 L 613,388.8"
+       id="path2883" />
+    <g
+       transform="translate(50.5,393.3)"
+       style="font-size:12px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+       id="g2885">
+      <text
+         id="text2887">
+        <tspan
+           id="tspan2889">0.1</tspan>
+      </text>
+    </g>
+    <path
+       d="M 58.8,351.6 L 67.8,351.6 M 622,351.6 L 613,351.6"
+       id="path2891" />
+    <g
+       transform="translate(50.5,356.1)"
+       style="font-size:12px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+       id="g2893">
+      <text
+         id="text2895">
+        <tspan
+           id="tspan2897">0.2</tspan>
+      </text>
+    </g>
+    <path
+       d="M 58.8,314.4 L 67.8,314.4 M 622,314.4 L 613,314.4"
+       id="path2899" />
+    <g
+       transform="translate(50.5,318.9)"
+       style="font-size:12px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+       id="g2901">
+      <text
+         id="text2903">
+        <tspan
+           id="tspan2905">0.3</tspan>
+      </text>
+    </g>
+    <path
+       d="M 58.8,277.2 L 67.8,277.2 M 622,277.2 L 613,277.2"
+       id="path2907" />
+    <g
+       transform="translate(50.5,281.7)"
+       style="font-size:12px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+       id="g2909">
+      <text
+         id="text2911">
+        <tspan
+           id="tspan2913">0.4</tspan>
+      </text>
+    </g>
+    <path
+       d="M 58.8,240 L 67.8,240 M 622,240 L 613,240"
+       id="path2915" />
+    <g
+       transform="translate(50.5,244.5)"
+       style="font-size:12px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+       id="g2917">
+      <text
+         id="text2919">
+        <tspan
+           id="tspan2921">0.5</tspan>
+      </text>
+    </g>
+    <path
+       d="M 58.8,202.8 L 67.8,202.8 M 622,202.8 L 613,202.8"
+       id="path2923" />
+    <g
+       transform="translate(50.5,207.3)"
+       style="font-size:12px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+       id="g2925">
+      <text
+         id="text2927">
+        <tspan
+           id="tspan2929">0.6</tspan>
+      </text>
+    </g>
+    <path
+       d="M 58.8,165.6 L 67.8,165.6 M 622,165.6 L 613,165.6"
+       id="path2931" />
+    <g
+       transform="translate(50.5,170.1)"
+       style="font-size:12px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+       id="g2933">
+      <text
+         id="text2935">
+        <tspan
+           id="tspan2937">0.7</tspan>
+      </text>
+    </g>
+    <path
+       d="M 58.8,128.4 L 67.8,128.4 M 622,128.4 L 613,128.4"
+       id="path2939" />
+    <g
+       transform="translate(50.5,132.9)"
+       style="font-size:12px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+       id="g2941">
+      <text
+         id="text2943">
+        <tspan
+           id="tspan2945">0.8</tspan>
+      </text>
+    </g>
+    <path
+       d="M 58.8,91.2 L 67.8,91.2 M 622,91.2 L 613,91.2"
+       id="path2947" />
+    <g
+       transform="translate(50.5,95.7)"
+       style="font-size:12px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+       id="g2949">
+      <text
+         id="text2951">
+        <tspan
+           id="tspan2953">0.9</tspan>
+      </text>
+    </g>
+    <path
+       d="M 58.8,54 L 67.8,54 M 622,54 L 613,54"
+       id="path2955" />
+    <g
+       transform="translate(50.5,58.5)"
+       style="font-size:12px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+       id="g2957">
+      <text
+         id="text2959">
+        <tspan
+           id="tspan2961">1</tspan>
+      </text>
+    </g>
+    <path
+       d="M 58.8,426 L 58.8,417 M 58.8,54 L 58.8,63"
+       id="path2963" />
+    <g
+       transform="translate(58.8,448.5)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g2965">
+      <text
+         id="text2967">
+        <tspan
+           id="tspan2969">-3</tspan>
+      </text>
+    </g>
+    <path
+       d="M 110,426 L 110,417 M 110,54 L 110,63"
+       id="path2971" />
+    <g
+       transform="translate(110,448.5)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g2973">
+      <text
+         id="text2975">
+        <tspan
+           id="tspan2977">-2</tspan>
+      </text>
+    </g>
+    <path
+       d="M 161.2,426 L 161.2,417 M 161.2,54 L 161.2,63"
+       id="path2979" />
+    <g
+       transform="translate(161.2,448.5)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g2981">
+      <text
+         id="text2983">
+        <tspan
+           id="tspan2985">-1</tspan>
+      </text>
+    </g>
+    <path
+       d="M 212.4,426 L 212.4,417 M 212.4,54 L 212.4,63"
+       id="path2987" />
+    <g
+       transform="translate(212.4,448.5)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g2989">
+      <text
+         id="text2991">
+        <tspan
+           id="tspan2993">0</tspan>
+      </text>
+    </g>
+    <path
+       d="M 263.6,426 L 263.6,417 M 263.6,54 L 263.6,63"
+       id="path2995" />
+    <g
+       transform="translate(263.6,448.5)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g2997">
+      <text
+         id="text2999">
+        <tspan
+           id="tspan3001">1</tspan>
+      </text>
+    </g>
+    <path
+       d="M 314.8,426 L 314.8,417 M 314.8,54 L 314.8,63"
+       id="path3003" />
+    <g
+       transform="translate(314.8,448.5)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g3005">
+      <text
+         id="text3007">
+        <tspan
+           id="tspan3009">2</tspan>
+      </text>
+    </g>
+    <path
+       d="M 366,426 L 366,417 M 366,54 L 366,63"
+       id="path3011" />
+    <g
+       transform="translate(366,448.5)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g3013">
+      <text
+         id="text3015">
+        <tspan
+           id="tspan3017">3</tspan>
+      </text>
+    </g>
+    <path
+       d="M 417.2,426 L 417.2,417 M 417.2,54 L 417.2,63"
+       id="path3019" />
+    <g
+       transform="translate(417.2,448.5)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g3021">
+      <text
+         id="text3023">
+        <tspan
+           id="tspan3025">4</tspan>
+      </text>
+    </g>
+    <path
+       d="M 468.4,426 L 468.4,417 M 468.4,54 L 468.4,63"
+       id="path3027" />
+    <g
+       transform="translate(468.4,448.5)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g3029">
+      <text
+         id="text3031">
+        <tspan
+           id="tspan3033">5</tspan>
+      </text>
+    </g>
+    <path
+       d="M 519.6,426 L 519.6,417 M 519.6,54 L 519.6,63"
+       id="path3035" />
+    <g
+       transform="translate(519.6,448.5)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g3037">
+      <text
+         id="text3039">
+        <tspan
+           id="tspan3041">6</tspan>
+      </text>
+    </g>
+    <path
+       d="M 570.8,426 L 570.8,417 M 570.8,54 L 570.8,63"
+       id="path3043" />
+    <g
+       transform="translate(570.8,448.5)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g3045">
+      <text
+         id="text3047">
+        <tspan
+           id="tspan3049">7</tspan>
+      </text>
+    </g>
+    <path
+       d="M 622,426 L 622,417 M 622,54 L 622,63"
+       id="path3051" />
+    <g
+       transform="translate(622,448.5)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g3053">
+      <text
+         id="text3055">
+        <tspan
+           id="tspan3057">8</tspan>
+      </text>
+    </g>
+    <path
+       d="M 58.8,54 L 58.8,426 L 622,426 L 622,54 L 58.8,54 z "
+       id="path3059" />
+    <g
+       transform="matrix(0,-1,1,0,22.5,240)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g3061">
+      <text
+         id="text3063" />
+    </g>
+    <g
+       transform="matrix(0,-1,1,0,644.4,240)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g3065">
+      <text
+         id="text3067" />
+    </g>
+    <g
+       transform="translate(340.4,475.5)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g3069">
+      <text
+         id="text3071"
+         style="font-family:Arial Black">
+        <tspan
+           id="tspan3073"
+           style="font-family:Arial Black">x</tspan>
+      </text>
+    </g>
+    <g
+       transform="translate(340.4,31.5)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g3075">
+      <text
+         id="text3077"
+         style="font-family:Arial Black">
+        <tspan
+           id="tspan3079"
+           style="font-family:Arial Black">Unnormalized Radial Basis Functions</tspan>
+      </text>
+    </g>
+    <g
+       transform="translate(340.4,67.6)"
+       style="font-size:12px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+       id="g3081">
+      <text
+         id="text3083" />
+    </g>
+    <g
+       transform="translate(9,475.5)"
+       style="font-size:12px;text-anchor:start;fill:#000000;stroke:none;font-family:Arial"
+       id="g3085">
+      <text
+         id="text3087" />
+    </g>
+  </g>
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g3089" />
+  <g
+     style="color:#ff0000;fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g3091">
+    <path
+       style="stroke:#000080"
+       d="M 58.8,426 L 64.5,426 L 70.2,426 L 75.9,426 L 81.6,426 L 87.2,426 L 92.9,426 L 98.6,425.9 L 104.3,425.9 L 110,425.8 L 115.7,425.6 L 121.4,425.4 L 127.1,424.9 L 132.8,424.2 L 138.4,423 L 144.1,421.2 L 149.8,418.4 L 155.5,414.4 L 161.2,408.6 L 166.9,400.6 L 172.6,390 L 178.3,376 L 184,358.3 L 189.6,336.7 L 195.3,311 L 201,281.4 L 206.7,248.8 L 212.4,214 L 218.1,178.7 L 223.8,144.4 L 229.5,113.3 L 235.2,87.2 L 240.8,67.8 L 246.5,56.6 L 252.2,54.3 L 257.9,61.1 L 263.6,76.5 L 269.3,99.5 L 275,128.4 L 280.7,161.3 L 286.4,196.3 L 292,231.6 L 297.7,265.4 L 303.4,296.6 L 309.1,324.3 L 314.8,348 L 320.5,367.7 L 326.2,383.4 L 331.9,395.7 L 337.6,404.9 L 343.2,411.7 L 348.9,416.6 L 354.6,419.9 L 360.3,422.2 L 366,423.6 L 371.7,424.6 L 377.4,425.2 L 383.1,425.5 L 388.8,425.7 L 394.4,425.9 L 400.1,425.9 L 405.8,426 L 411.5,426 L 417.2,426 L 422.9,426 L 428.6,426 L 434.3,426 L 440,426 L 445.6,426 L 451.3,426 L 457,426 L 462.7,426 L 468.4,426 L 474.1,426 L 479.8,426 L 485.5,426 L 491.2,426 L 496.8,426 L 502.5,426 L 508.2,426 L 513.9,426 L 519.6,426 L 525.3,426 L 531,426 L 536.7,426 L 542.4,426 L 548,426 L 553.7,426 L 559.4,426 L 565.1,426 L 570.8,426 L 576.5,426 L 582.2,426 L 587.9,426 L 593.6,426 L 599.2,426 L 604.9,426 L 610.6,426 L 616.3,426 L 622,426"
+       id="path3093" />
+  </g>
+  <g
+     style="color:#008000;fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g3095">
+    <path
+       style="stroke:#ff00ff"
+       d="M 58.8,426 L 64.5,426 L 70.2,426 L 75.9,426 L 81.6,426 L 87.2,426 L 92.9,426 L 98.6,426 L 104.3,426 L 110,426 L 115.7,426 L 121.4,426 L 127.1,426 L 132.8,426 L 138.4,426 L 144.1,426 L 149.8,426 L 155.5,426 L 161.2,426 L 166.9,426 L 172.6,426 L 178.3,426 L 184,426 L 189.6,426 L 195.3,426 L 201,426 L 206.7,426 L 212.4,426 L 218.1,426 L 223.8,426 L 229.5,425.9 L 235.2,425.9 L 240.8,425.7 L 246.5,425.5 L 252.2,425.2 L 257.9,424.6 L 263.6,423.6 L 269.3,422.2 L 275,419.9 L 280.7,416.6 L 286.4,411.7 L 292,404.9 L 297.7,395.7 L 303.4,383.4 L 309.1,367.7 L 314.8,348 L 320.5,324.3 L 326.2,296.6 L 331.9,265.4 L 337.6,231.6 L 343.2,196.3 L 348.9,161.3 L 354.6,128.4 L 360.3,99.5 L 366,76.5 L 371.7,61.1 L 377.4,54.3 L 383.1,56.6 L 388.8,67.8 L 394.4,87.2 L 400.1,113.3 L 405.8,144.4 L 411.5,178.7 L 417.2,214 L 422.9,248.8 L 428.6,281.4 L 434.3,311 L 440,336.7 L 445.6,358.3 L 451.3,376 L 457,390 L 462.7,400.6 L 468.4,408.6 L 474.1,414.4 L 479.8,418.4 L 485.5,421.2 L 491.2,423 L 496.8,424.2 L 502.5,424.9 L 508.2,425.4 L 513.9,425.6 L 519.6,425.8 L 525.3,425.9 L 531,425.9 L 536.7,426 L 542.4,426 L 548,426 L 553.7,426 L 559.4,426 L 565.1,426 L 570.8,426 L 576.5,426 L 582.2,426 L 587.9,426 L 593.6,426 L 599.2,426 L 604.9,426 L 610.6,426 L 616.3,426 L 622,426"
+       id="path3097" />
+  </g>
+  <g
+     style="color:#008000;fill:none;stroke:#ff00ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g3099" />
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g3101">
+    <path
+       d="M 58.8,54 L 58.8,426 L 622,426 L 622,54 L 58.8,54 z "
+       id="path3103" />
+  </g>
+</svg>
